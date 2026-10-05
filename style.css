@@ -428,6 +428,10 @@ a.pub-title:hover {
   min-width: 42px;
 }
 
+.service-list .award-year {
+  min-width: 86px;
+}
+
 .award-text {
   font-size: 0.95rem;
   color: #3a3a3a;
