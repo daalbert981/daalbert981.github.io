@@ -21,7 +21,7 @@ Daniel is an AI speaker and workshop facilitator who works with executives and l
 
 ## Selected Publications
 
-- Albert, D. & Ganco, M. (2026). Interface as a Design Choice: How the Implementation of Interfaces Influences Coordination and Performance in Modular Systems. Strategic Management Journal, in press. https://doi.org/10.1002/smj.70121
+- Albert, D. & Ganco, M. (2026). Interface as a Design Choice: How the Implementation of Interfaces Influences Coordination and Performance in Modular Systems. Strategic Management Journal, 47(12), 3167-3197. https://doi.org/10.1002/smj.70121
 - Albert, D. & Csaszar, F. (2026). Search Heuristics Under Multiple Objectives: The Case of Corporate Social Responsibility. Academy of Management Review, in press. https://doi.org/10.5465/amr.2024.0178
 - Albert, D. & Eklund, J. (2026). Margin or Mission? Understanding the Relationship Between Multilevel Functional Subgroups and Pricing. Organization Science, 37(1), 323–352.
 - Albert, D., Eklund, J. & Tang, L. (2026). A New Organizational Structure Database. Strategic Management Journal, 47(3).
